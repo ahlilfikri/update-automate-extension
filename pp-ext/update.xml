@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <app>
-    <update>
-      <version>3.0.1</version>
-      <url>https://update-automate-extension.vercel.app/pp-ext/crx-pp-extension-3.0.1.zip</url>
-      <hash type="sha256">ecb95603e57b6cd50eec9a16d2213b1a575b4e3fa70563d292508948efeef8b4</hash>
-    </update>
-  </app>
-</manifest>
+<gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
+    <app>
+        <updatecheck codebase="https://update-automate-extension.vercel.app/pp-ext/crx-pp-extension-3.0.1.zip" version="3.0.1"/>
+    </app>
+</gupdate>
