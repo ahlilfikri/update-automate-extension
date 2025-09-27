@@ -4,8 +4,8 @@
   <app>
     <update>
       <version>1.0.1</version>
-      <url>https://yourserver.com/extension/your_extension_v1.0.1.zip</url>
-      <hash type="sha256">your_sha256_hash_here</hash>
+      <url>http://update-automate-extension.vercel.app/pp-ext/crx-pp-extension-3.0.0.zip</url>
+      <hash type="sha256">21324a8caa6279067fe712af532487568f2e14394d32388657575ecdb890ed48</hash>
     </update>
   </app>
 </manifest>
