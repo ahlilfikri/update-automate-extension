@@ -3,7 +3,7 @@
   <app>
     <update>
       <version>1.0.1</version>
-      <url>http://update-automate-extension.vercel.app/pp-ext/crx-pp-extension-3.0.0.zip</url>
+      <url>https://update-automate-extension.vercel.app/pp-ext/crx-pp-extension-3.0.0.zip</url>
       <hash type="sha256">04e47277eebfc8bcad43eb3bbeca161f302dd1b7f5148a617e220cfe7f0015cc</hash>
     </update>
   </app>
